@@ -1,6 +1,8 @@
 {
     "cSpell.words": [
         "argsort",
+        "astype",
+        "autopct",
         "boxplot",
         "dendrogram",
         "kmeans",
